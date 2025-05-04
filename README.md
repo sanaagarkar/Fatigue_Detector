@@ -1,6 +1,4 @@
-Here's a **README.md** file for your fatigue analysis project using facial expression, eye movement, and rPPG-based metrics:
 
----
 
 # Fatigue Analyzer using DeepFace and rPPG
 
